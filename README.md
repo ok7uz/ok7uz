@@ -9,5 +9,5 @@
 - 📫 How to reach me: t.me/ok7uz
 - 😄 Pronouns: he/him
 
-![ok7uz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok7uz&show_icons=true&theme=radical)
+![ok7uz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok7uz&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok7uz&hide_progress=true)
