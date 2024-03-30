@@ -8,3 +8,5 @@
 - 💬 Ask me about Python, Django, DRF ...
 - 📫 How to reach me: t.me/ok7uz
 - 😄 Pronouns: he/him
+
+![ok7uz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok7uz&show_icons=true&theme=radical)
