@@ -1,4 +1,10 @@
-[![](https://visitcount.itsvg.in/api?id=ok7uz&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ok7uz&show_icons=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok7uz&layout=compact" height="150">
+</p>
 
-![ok7uz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok7uz&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok7uz&layout=compact)
+
